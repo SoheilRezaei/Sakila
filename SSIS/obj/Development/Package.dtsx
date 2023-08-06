@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="4/12/2023 12:53:49 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="ZEPHYRUS-G14"
+  DTS:CreatorName="ZEPHYRUS-G14\behza"
+  DTS:DTSID="{75C8B085-C6C3-4A2B-AF69-DC7580EB36E4}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5131.0"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{5B90B086-5DBD-40B3-81A5-148530B3F0C1}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
